@@ -73,3 +73,4 @@ We are currently in the ideation and planning phase. Architecture and roadmap ar
 Pitch Deck (PPT): https://docs.google.com/presentation/d/1_4yJ9EQ9MycSd_NfLV7qt5EitrC8_39J/edit?usp=drivesdk&ouid=107375442863136879126&rtpof=true&sd=true  
 Detailed Write-Up (DOCX): https://docs.google.com/document/d/1_5dbdfcnkslq5W7veN_m5rA0M86S8IMx/edit?usp=drivesdk&ouid=107375442863136879126&rtpof=true&sd=true
 Live Demo: Coming soon on Vercel  
+Co-developed by [@charan17kk](https://github.com/charan17kk)
